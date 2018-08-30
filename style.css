@@ -1,0 +1,39 @@
+body {
+	background-color: #206020;
+	Background-image: url("http://pkportuga.pt/blog/wp-content/uploads/2016/06/Alola-Region-Map.jpg");
+	color: #ffffff;
+	text-align: center;
+	
+}
+p {
+	text-indent: 50px;
+	border-style: double;
+	border-width: 2px;
+	border-color: #f9f9f9;
+	margin: auto 500px;
+	margin-top: 10px;
+}
+#grad{
+	background: linear-gradient(#202020,#009090)
+}
+h1{
+	border-style: solid;
+	border-width: 5px;
+	border-color: #ffffff;
+	margin: auto 300px;
+	margin-top: 10px;
+}
+h2{
+	border-style: solid;
+	border-width: 4px;
+	border-color: #ffffff;
+	margin: auto 400px;
+	margin-top: 10px;
+}
+h3{
+	border-style: solid;
+	border-width: 3px;
+	border-color: #ffffff;
+	margin: auto 450px;
+	margin-top: 10px;
+}
